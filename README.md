@@ -1,1 +1,161 @@
-# BreastCancerPrediction
+# BreastCancerPredictionModel
+# ComputerScienceCapstone - C964
+
+<p align="center">
+<img src="https://imgur.com/hNCb0aw.png" height="100%" width="100%" alt="GoogleColab"/>
+</p>
+
+## Usage
+
+To get the code to run and interact with the widgets please click the link in the BreastCancerPrediction.ipynb file:
+
+^^^No Downloading Needed With GoogleColab^^^
+
+<p align="center">
+<img src="https://imgur.com/l2wl5iK.png" height="80%" width="80%" alt="GoogleColab"/>
+</p>
+
+Once that is done, please hit the "Runtime" option in the toolbar and click Run All:
+
+<p align="center">
+<img src="https://imgur.com/MNDNepd.png" height="80%" width="80%" alt="GoogleColab"/>
+</p>
+
+## Table of Contents
+From there you will be able to scroll through the table of contents read through each cell to have a better understanding of the application:
+
+^^^Read through each comment to have a better understanding of the visuals and user interactive tools^^^
+
+<p align="center">
+<img src="https://imgur.com/QhmV17x.png" height="190%" width="110%" alt="GoogleColab"/>
+</p>
+
+### !Full Writeup included in C964 Capstone WriteUp file!
+
+
+## REQUIREMENTS
+
+```text
+Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely
+paraphrased from sources, even if cited correctly. The similarity report that is provided when you submit your task can be used as a guide.
+
+ 
+
+You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more
+than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course.
+
+ 
+
+Tasks may not be submitted as cloud links, such as links to Google Docs, Google Slides, OneDrive, etc., unless specified in the task requirements. All other submissions must be file types that are
+uploaded and submitted as attachments (e.g., .docx, .pdf, .ppt).
+
+
+A.  Create a letter of transmittal and a project proposal to convince senior, nontechnical managers and executives to implement your data product approved in Task 1. The proposal should include
+      each of the following:
+
+  •   a summary of the problem
+
+  •   a description of how the data product benefits the customer and supports the decision-making process
+
+  •   an outline of the data product
+
+  •   a description of the data that will be used to construct the data product
+
+  •   the objectives and hypotheses of the project
+
+  •   an outline of the project methodology
+
+  •   funding requirements
+
+  •   the impact of the solution on stakeholders
+
+  •   ethical and legal considerations and precautions that will be used when working with and communicating about sensitive data
+
+  •   your expertise relevant to the solution you propose
+
+ 
+    Note: Expertise described here could be real or hypothetical to fit the project topic you have created.
+
+ 
+
+B.  Write an executive summary directed to IT professionals that addresses each of the following requirements:
+
+  •   the decision support problem or opportunity you are solving for
+
+  •   a description of the customers and why this product will fulfill their needs
+
+  •   existing gaps in the data products you are replacing or modifying (if applicable)
+
+  •   the data available or the data that needs to be collected to support the data product lifecycle
+
+  •   the methodology you use to guide and support the data product design and development
+
+  •   deliverables associated with the design and development of the data product
+
+  •   the plan for implementation of your data product, including the anticipated outcomes from this development
+
+  •   the methods for validating and verifying that the developed data product meets the requirements and, subsequently, the needs of the customers
+
+  •   the programming environments and any related costs, as well as the human resources that are necessary to execute each phase in the development of the data product
+
+  •   a projected timeline, including milestones, start and end dates, duration for each milestone, dependencies, and resources assigned to each task
+
+ 
+
+C.  Design and develop your fully functional data product that addresses your identified business problem or organizational need from part A. Include each of the following attributes, as they are the
+      minimum required elements for the product:
+
+  •   one descriptive method and one nondescriptive (predictive or prescriptive) method
+
+  •   collected or available datasets
+
+  •   decision support functionality
+
+  •   ability to support featurizing, parsing, cleaning, and wrangling datasets
+
+  •   methods and algorithms supporting data exploration and preparation
+
+  •   data visualization functionalities for data exploration and inspection
+
+  •   implementation of interactive queries
+
+  •   implementation of machine-learning methods and algorithms
+
+  •   functionalities to evaluate the accuracy of the data product
+
+  •   industry-appropriate security features
+
+  •   tools to monitor and maintain the product
+
+  •   a user-friendly, functional dashboard that includes three visualization types
+
+ 
+
+D.  Create each of the following forms of documentation for the product you have developed:
+
+  •   a business vision or business requirements document
+
+  •   raw and cleaned datasets with the code and executable files used to scrape and clean data (if applicable)
+
+  •   code used to perform the analysis of the data and construct a descriptive, predictive, or prescriptive data product
+
+  •   assessment of the hypotheses for acceptance or rejection
+
+  •   visualizations and elements of effective storytelling supporting the data exploration and preparation, data analysis, and data summary, including the phenomenon and its detection
+
+  •   assessment of the product’s accuracy 
+
+  •   the results from the data product testing, revisions, and optimization based on the provided plans, including screenshots
+
+  •   source code and executable file(s)
+
+  •   a quick-start guide summarizing the steps necessary to install and use the product
+
+ 
+
+E.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+
+ 
+
+F.  Demonstrate professional communication in the content and presentation of your submission.
+```
